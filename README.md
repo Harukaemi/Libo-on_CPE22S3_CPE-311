@@ -14,16 +14,6 @@ Portfolio of Libo-on, Gian Carlo G.
 
 ###
 
-<div align="center">
-  <img height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzQzczQ1NnY1bnFqZGVvZ3RyYXB1bGpycnN5M2YwczV2dnk3bGhteSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/c2f879Vun2w9syLZZK/200.webp"  />
-</div>
-
-###
-
-<p align="center">The Strongest in History</p>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
